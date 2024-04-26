@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "new_start_locations_for_extra_mutation_scen",
+    "name": "New start locations for Extra Mutated Scenarios",
+    "authors": [ "Arendeth" ],
+    "description": "Adds more lab based start locations to the scenerios added by Extra Mutated Scenarios",
+    "category": "misc_additions",
+    "dependencies": [ "dda", "extra_mut_scens" ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "type": "scenario",
+    "id": "extscenario_prethresh",
+	"copy-from": "extscenario_prethresh",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_alpha",
+	"copy-from": "extscenario_alpha",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_batrachian",
+	"copy-from": "extscenario_batrachian",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_crustacean",
+	"copy-from": "extscenario_crustacean",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+    {
+    "type": "scenario",
+    "id": "extscenario_gastropod",
+	"copy-from": "extscenario_gastropod",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+      {
+    "type": "scenario",
+    "id": "extscenario_beast",
+	"copy-from": "extscenario_beast",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+        {
+    "type": "scenario",
+    "id": "extscenario_bird",
+	"copy-from": "extscenario_bird",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+          {
+    "type": "scenario",
+    "id": "extscenario_cattle",
+	"copy-from": "extscenario_cattle",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_cephalopod",
+	"copy-from": "extscenario_cephalopod",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_chimera",
+	"copy-from": "extscenario_chimera",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_elfa",
+	"copy-from": "extscenario_elfa",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_feline",
+	"copy-from": "extscenario_feline",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_fish",
+	"copy-from": "extscenario_fish",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_insect",
+	"copy-from": "extscenario_insect",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_lizard",
+	"copy-from": "extscenario_lizard",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_lupine",
+	"copy-from": "extscenario_lupine",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+            {
+    "type": "scenario",
+    "id": "extscenario_marloss",
+	"copy-from": "extscenario_marloss",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+              {
+    "type": "scenario",
+    "id": "extscenario_medical",
+	"copy-from": "extscenario_medical",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_mouse",
+	"copy-from": "extscenario_mouse",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_mycus",
+	"copy-from": "extscenario_mycus",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_plant",
+	"copy-from": "extscenario_plant",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_chiropteran",
+	"copy-from": "extscenario_chiropteran",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_rabbit",
+	"copy-from": "extscenario_rabbit",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_raptor",
+	"copy-from": "extscenario_raptor",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_rat",
+	"copy-from": "extscenario_rat",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_slime",
+	"copy-from": "extscenario_slime",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                {
+    "type": "scenario",
+    "id": "extscenario_spider",
+	"copy-from": "extscenario_spider",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_troglobite",
+	"copy-from": "extscenario_troglobite",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  },
+                  {
+    "type": "scenario",
+    "id": "extscenario_ursine",
+	"copy-from": "extscenario_ursine",
+	"extend": { "allowed_locs": [
+	"sloc_lab_train_depot",
+	"sloc_ants_lab_stairs",
+	"sloc_lab_random",
+	"sloc_lab_finale",
+	"sloc_office_tower_open_air_corner_roof",
+	"sloc_microlab_distorted_edge",
+	"sloc_microlab_ratkin",
+	"sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+	"sloc_lab_security_z-6_final_flr"
+	] }
+  }
+]

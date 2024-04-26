@@ -1,0 +1,56 @@
+[
+  {
+    "type": "start_location",
+    "id": "sloc_office_tower_open_air_corner_roof",
+    "name": "Science lab tower roof",
+    "terrain": [ "office_tower_open_air_corner_roof" ]
+  },
+  {
+    "type": "start_location",
+    "id": "sloc_lab_train_depot",
+    "name": "Science train depot",
+    "terrain": [ "lab_train_depot" ]
+  },
+    {
+    "type": "start_location",
+    "id": "sloc_ants_lab_stairs",
+    "name": "Ant infested Science lab stairs",
+    "terrain": [ "ants_lab_stairs" ]
+  },
+  {
+    "type": "start_location",
+    "id": "sloc_lab_random",
+    "name": "Science lab tower stairs",
+    "terrain": [ "tower_lab_stairs" ]
+  },
+  {
+    "type": "start_location",
+    "id": "sloc_lab_finale",
+    "name": "Science lab tower finale",
+    "terrain": [ "tower_lab_finale" ]
+  },
+      {
+    "type": "start_location",
+    "id": "sloc_microlab_distorted_edge",
+    "name": "Edge of distorted science lab",
+    "terrain": [ "microlab_distorted_edge" ]
+  },
+    {
+    "type": "start_location",
+    "id": "sloc_microlab_ratkin",
+    "name": "Micro science lab for ratkin",
+    "terrain": [ "microlab_ratkin" ]
+  },
+  {
+    "type": "start_location",
+    "id": "sloc_lab_2x2_MUT_tier_2_NW_final_flr",
+    "name": "Bottom? of Lab Research Zone",
+    "terrain": [ "lab_2x2_MUT_tier_2_NW_final_flr" ]
+  },
+    {
+    "type": "start_location",
+    "id": "sloc_lab_security_z-6_final_flr",
+    "name": "Bottom of Lab Security Zone underground area",
+    "terrain": [ "lab_security_z-6_final_flr" ]
+  }
+ ]
