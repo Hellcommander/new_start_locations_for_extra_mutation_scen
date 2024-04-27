@@ -1,9 +1,9 @@
 [
   {
     "type": "start_location",
-    "id": "sloc_office_tower_open_air_corner_roof",
-    "name": "Science lab tower roof",
-    "terrain": [ "office_tower_open_air_corner_roof" ]
+    "id": "sloc_office_tower_2_a1_tower_lab",
+    "name": "office tower lab top floor?",
+    "terrain": [ "office_tower_2_a1_tower_lab" ]
   },
   {
     "type": "start_location",
@@ -34,6 +34,12 @@
     "id": "sloc_microlab_distorted_edge",
     "name": "Edge of distorted science lab",
     "terrain": [ "microlab_distorted_edge" ]
+  },
+        {
+    "type": "start_location",
+    "id": "sloc_microlab_sub_station",
+    "name": "lab in subway station",
+    "terrain": [ "microlab_sub_station" ]
   },
     {
     "type": "start_location",
