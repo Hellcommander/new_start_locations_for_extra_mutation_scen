@@ -19,13 +19,13 @@
   },
   {
     "type": "start_location",
-    "id": "sloc_lab_random",
+    "id": "sloc_tower_lab_stairs",
     "name": "Science lab tower stairs",
     "terrain": [ "tower_lab_stairs" ]
   },
   {
     "type": "start_location",
-    "id": "sloc_lab_finale",
+    "id": "sloc_tower_lab_finale",
     "name": "Science lab tower finale",
     "terrain": [ "tower_lab_finale" ]
   },
