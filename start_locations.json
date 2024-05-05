@@ -13,12 +13,6 @@
   },
   {
     "type": "start_location",
-    "id": "sloc_ants_lab_stairs",
-    "name": "Ant infested Science lab stairs",
-    "terrain": [ "ants_lab_stairs" ]
-  },
-  {
-    "type": "start_location",
     "id": "sloc_tower_lab_stairs",
     "name": "Science lab tower stairs",
     "terrain": [ "tower_lab_stairs" ]
