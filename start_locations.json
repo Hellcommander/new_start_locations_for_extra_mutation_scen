@@ -49,10 +49,9 @@
   },
   {
     "type": "start_location",
-    "id": "sloc_microlab_generic_tile",
+    "id": "sloc_microlab_generic_hallway_straight",
     "name": "random science microlab (warning might not be able to start here even after many attempts)",
-    "terrain": [ { "om_terrain": "microlab_generic_tile", "om_terrain_match_type": "TYPE" } ],
-    "flags": [ "ALLOW_OUTSIDE" ]
+    "terrain": [ { "om_terrain": "microlab_generic_hallway_straight", "om_terrain_match_type": "TYPE" } ]
   },
   {
     "type": "start_location",
@@ -63,9 +62,8 @@
   {
     "type": "start_location",
     "id": "sloc_microlab_generic_isolated_elevator_pit",
-    "name": "isolated elevator pit in a microlab (warning might not be able to start here even after many attempts)",
-    "terrain": [ { "om_terrain": "microlab_microlab_generic_isolated_elevator_pit", "om_terrain_match_type": "TYPE" } ],
-    "flags": [ "ALLOW_OUTSIDE" ]
+    "name": "isolated elevator pit in a microlab (warning to progress computer might need to be hacked)",
+    "terrain": [ { "om_terrain": "microlab_generic_isolated_elevator_pit", "om_terrain_match_type": "TYPE" } ]
   },
   {
     "type": "start_location",
