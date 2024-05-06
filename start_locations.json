@@ -23,7 +23,19 @@
     "name": "Random science lab tower finale",
     "terrain": [ "tower_lab_finale" ]
   },
-    {
+  {
+    "type": "start_location",
+    "id": "sloc_central_lab_stairs",
+    "name": "central science lab stairs",
+    "terrain": [ "central_lab_stairs" ]
+  },
+  {
+    "type": "start_location",
+    "id": "sloc_central_lab_finale",
+    "name": "bottom of central science lab finale",
+    "terrain": [ "central_lab_finale" ]
+  },
+  {
     "type": "start_location",
     "id": "sloc_microlab_generic_surface_connector",
     "name": "Random microlab (that might be locked connected to subway tunnel?",
@@ -33,14 +45,14 @@
     "type": "start_location",
     "id": "sloc_microlab_distorted_edge",
     "name": "Distorted science lab",
-    "terrain": [ "microlab_distorted", "microlab_distorted_edge"  ]
+    "terrain": [ "microlab_distorted", "microlab_distorted_edge" ]
   },
   {
     "type": "start_location",
     "id": "sloc_microlab_generic_tile",
     "name": "random science microlab (warning might not be able to start here even after many attempts)",
-	"terrain": [ { "om_terrain": "microlab_generic_tile", "om_terrain_match_type": "TYPE" } ],
-	"flags": [ "ALLOW_OUTSIDE" ]
+    "terrain": [ { "om_terrain": "microlab_generic_tile", "om_terrain_match_type": "TYPE" } ],
+    "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
     "type": "start_location",
@@ -52,8 +64,8 @@
     "type": "start_location",
     "id": "sloc_microlab_generic_isolated_elevator_pit",
     "name": "isolated elevator pit in a microlab (warning might not be able to start here even after many attempts)",
-	"terrain": [ { "om_terrain": "microlab_microlab_generic_isolated_elevator_pit", "om_terrain_match_type": "TYPE" } ],
-	"flags": [ "ALLOW_OUTSIDE" ]
+    "terrain": [ { "om_terrain": "microlab_microlab_generic_isolated_elevator_pit", "om_terrain_match_type": "TYPE" } ],
+    "flags": [ "ALLOW_OUTSIDE" ]
   },
   {
     "type": "start_location",
@@ -63,8 +75,14 @@
   },
   {
     "type": "start_location",
+    "id": "sloc_lab_2x2_MUT_tier_1",
+    "name": "tier 1 Lab Research Zone(warning might not be able to escape start since door to get out of area requires hacking tool or to teleport beyond the door)",
+    "terrain": [ "lab_2x2_MUT_tier_1_NW", "lab_2x2_MUT_tier_1_NE", "lab_2x2_MUT_tier_1_SW", "lab_2x2_MUT_tier_1_SE" ]
+  },
+  {
+    "type": "start_location",
     "id": "sloc_lab_2x2_MUT_tier_2_NW_final_flr",
-    "name": "Bottom? of Lab Research Zone",
+    "name": "Bottom? of Lab Research Zone (warning might not be able to escape start since door to get out of area requires hacking tool or to teleport beyond the door)",
     "terrain": [ "lab_2x2_MUT_tier_2_NW_final_flr" ]
   },
   {
